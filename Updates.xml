@@ -1,0 +1,22 @@
+<Updates>
+ <ApplicationName>{AnyApplication}</ApplicationName>
+ <ApplicationVersion>1.0.0</ApplicationVersion>
+ <Checksum>true</Checksum>
+ <PackageUpdate>
+  <Name>com.vendor.product</Name>
+  <DisplayName>The root component</DisplayName>
+  <Description>Install this example.</Description>
+  <Version>0.1.0-1</Version>
+  <ReleaseDate>2010-09-21</ReleaseDate>
+  <Default>script</Default>
+  <Script>installscript.qs</Script>
+  <UpdateFile CompressedSize="1004885" OS="Any" UncompressedSize="3497000"/>
+  <DownloadableArchives>content.7z</DownloadableArchives>
+  <Licenses>
+   <License file="license.txt" name="Beer Public License Agreement"/>
+  </Licenses>
+  <SHA1>00f91a7033685e8592b64f90ecc5d68cb03e9038</SHA1>
+ </PackageUpdate>
+ <SHA1>80c57d50dd03e5edaa5f4382e0a7e4f9d739f965</SHA1>
+ <MetadataName>2022-08-09-0957_meta.7z</MetadataName>
+</Updates>
